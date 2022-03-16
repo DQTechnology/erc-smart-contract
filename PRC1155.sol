@@ -1,5 +1,5 @@
 pragma solidity ^0.5.0;
-// https://dq-live-alpha.obs.cn-north-4.myhuaweicloud.com/public%2F213%2Fbcw%2F16470774010391647077401039-nft.json
+
 interface ERC1155TokenReceiver {
     //
     function onERC1155Received(
